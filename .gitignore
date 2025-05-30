@@ -2,7 +2,7 @@
 *.d
 *.clang-format
 .zshrc
-
+.clang-format
 # Compiled Object files
 *.slo
 *.lo
